@@ -1,0 +1,65 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Event Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#upcoming-events">Upcoming Events</a></li>
+                <li><a href="#past-events">Past Events</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Birthday Party</h3>
+                <p>Join the birthday celebration of the CEO of Ikegraphix</p>
+                <p><strong>date
+: 25th December 2025, 7:00 PM
+                </strong></p>
+            </article>
+
+                
+            <article>
+                <h3>New Year Praiz</h3>
+                <p>Celebrate the New Year with us!</p>
+                <p><strong>date: 31st December 2025, 10:00 PM
+                </strong></p>
+            </article>
+        </section>
+
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Summer Fest 2024</h3>
+                <p>A fun-filled summer festival with music, food, and games.</p>
+                <p><strong>date: 15th June 2025
+                </strong></p>
+                image: <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="Summer Fest 2024">
+            </article>
+
+            <article>
+                <h3>Winter Gala 2023</h3>
+                <p>An elegant evening of dining and dancing to celebrate the winter season.</p>
+                <p><strong>date: 20th December 2023
+                </strong></p>
+                image: <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Winter Gala 2023">
+            </article>
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
